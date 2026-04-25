@@ -42,6 +42,8 @@ const allowedOrigins = [
   "http://localhost:8080",
   "http://localhost:5173", 
   "https://pashugreenai.netlify.app", // production
+    "https://pashu.ai",
+  "https://www.pashu.ai",
 ];
 
 app.use(
